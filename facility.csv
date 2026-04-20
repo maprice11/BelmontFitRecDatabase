@@ -1,0 +1,5 @@
+FacilityID,FacilityName,FacilityCode,MaxOccupancy 
+FAC101,Beaman Weight Room,BMWR,55
+FAC102,Hewlett Weight Room,HTWR,30
+FAC103,Picklebeach,PICK,50
+FAC104,eSports,ESPT,75
